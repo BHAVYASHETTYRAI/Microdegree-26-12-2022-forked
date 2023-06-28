@@ -24,7 +24,7 @@ sudo curl -L https://github.com/docker/compose/releases/latest/download/docker-c
 ```
 5.Example to test
 ```sh
-version: '3.8'
+version: '3.6'
 services:
   app: 
     image: nginx
