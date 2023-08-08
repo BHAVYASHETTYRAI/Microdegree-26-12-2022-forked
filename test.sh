@@ -1,2 +1,2 @@
-echo "hello world "
+o world "
 echo "hello "
